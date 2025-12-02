@@ -1,4 +1,3 @@
-package patient;
 
 public class Jeune extends Patient {
 

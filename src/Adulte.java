@@ -1,6 +1,5 @@
-package patient;
 
-public class Adulte extends PatientAbstract {
+public class Adulte extends Patient {
 
     public Adulte(String id, double beta, double coeffFatigue) {
         super(id, beta, coeffFatigue);
