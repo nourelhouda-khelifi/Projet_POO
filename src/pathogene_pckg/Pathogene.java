@@ -10,6 +10,6 @@ public class Pathogene {
     private Map<String,double> medicamentSensibilite; 
     private double reactiviteB;
     private int idPathogene ; 
-    //testttttt
+    
 
 }
