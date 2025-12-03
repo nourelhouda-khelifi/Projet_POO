@@ -1,5 +1,3 @@
-package pathogene_pckg;
-
 import java.util.Map;
 
 public class Pathogene {
